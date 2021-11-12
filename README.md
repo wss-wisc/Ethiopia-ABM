@@ -1,5 +1,6 @@
 # Ethiopia-ABM
 Instructions for how to reproduce the analysis
+
 This study involves use of a seasonal precipitation prediction and local crop production data in an agent-based model. In order to reproduce the analyses, researchers need access to the following components: (1) the input files, (2) the agent-based model, and (3) the codes to generate figures used in the analysis/manuscript. All of the necessary files are available online at https://github.com/wss-wisc/Ethiopia-ABM. More description for each component follows:
 1.	The input files used for this project comes from CHIRPS data freely accessible online at https://www.chc.ucsb.edu/data/chirps. The precipitation data was used to build a seasonal precipitation forecast for the local area (Alexander et al., 2019) and the historical predictions and skill are provided. Local crop production data was shared by collaborators in Ethiopia. All input files are included as .csv inputs on the GitHub repository (crop information for maize and teff, observed precipitation, predicted precipitation, and prediction skill).
 
